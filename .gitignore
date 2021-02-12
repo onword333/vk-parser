@@ -1,2 +1,5 @@
 vendor
 .vscode
+phones.txt
+settings.ini
+*.csv
